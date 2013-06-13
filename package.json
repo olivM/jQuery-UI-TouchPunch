@@ -1,0 +1,24 @@
+{
+  "name": "jQuery.UI.TouchPunh",
+  "title": "jQuery UI.TouchPunh",
+  "description": "original by Dave Furfero",
+  "version": "v0.1",
+  "keywords": ["UI", "jQuery", "Touch"],
+  "homepage": "https://github.com/olivM/jQuery-UI.TouchPunh",
+  "author": {
+    "name": "Dave Furfero"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/olivM/jQuery-UI-TouchPunh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/olivM/jQuery-UI-TouchPunh/issues"
+  }
+}
